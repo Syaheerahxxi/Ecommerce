@@ -1,7 +1,5 @@
 # MERN Ecommerce Application
 
-<code>Currently under construction for additional features</code>
-
 # Description
 
 Full-stack ecommerce application built with MERN stack. This project has two features:
